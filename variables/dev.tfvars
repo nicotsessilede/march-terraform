@@ -1,0 +1,6 @@
+bucket_name = "example-bucket-nico-dev"
+s3_folder_name = "uploads/"
+s3_visioning_status = "Enabled"
+ec2_ami = "ami-0f403e3180720dd7e"
+ec2_name = "amazon-linux"
+ec2_type = "t2.micro"
